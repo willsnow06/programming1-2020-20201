@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Will Snows programming site
 
 You can use the [editor on GitHub](https://github.com/willsnow06/programming1-2020-20201/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
