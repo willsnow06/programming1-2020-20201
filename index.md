@@ -1,5 +1,5 @@
 ## Welcome to Will Snows programming site
-
+![5 minute typing test](file:///media/fuse/drivefs-76b6321de2f211b8df108708672f09ed/root/Screenshot%202020-08-26%20at%207.56.06%20AM.png)
 You can use the [editor on GitHub](https://github.com/willsnow06/programming1-2020-20201/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
